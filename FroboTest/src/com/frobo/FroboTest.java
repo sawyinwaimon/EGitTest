@@ -60,6 +60,8 @@ public class FroboTest {
 		}
 		}else{
 			System.out.println("no candidate get vote");
+			System.out.println("PP");
+			//------
 		}
 	}
 
